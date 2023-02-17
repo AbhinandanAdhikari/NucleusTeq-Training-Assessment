@@ -1,0 +1,6 @@
+#BlueJ class context
+comment0.target=Task4
+comment0.text=Write\ a\ Java\ Program\ to\ print\ 'Hello'\ on\ screen\ and\ then\ print\ your\ name\ on\ a\ seperate\ line
+comment1.params=arg
+comment1.target=void\ main(java.lang.String[])
+numComments=2

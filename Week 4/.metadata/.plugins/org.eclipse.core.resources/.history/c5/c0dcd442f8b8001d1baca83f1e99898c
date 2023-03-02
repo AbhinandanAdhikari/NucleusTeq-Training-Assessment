@@ -1,0 +1,17 @@
+package abstractClass;
+import java.util.*;
+abstract class Shape {
+	abstract void perimeter();
+	abstract void area();
+}
+class Circle{
+	double radius;
+	public Circle(double r)
+	{
+		this.radius=r;
+	}
+	public void perimeter()
+	{
+		
+	}
+}

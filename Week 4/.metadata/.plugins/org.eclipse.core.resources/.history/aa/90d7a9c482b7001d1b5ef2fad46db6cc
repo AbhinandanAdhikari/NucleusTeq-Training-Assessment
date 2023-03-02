@@ -1,0 +1,24 @@
+package interfaceTasks;
+
+public class SmartPhone extends Phone implements Camera, MusicPlayer {
+	public void call()
+	{
+		System.out.println("SmartPhone Calling");
+	}
+	public void sms()
+	{
+		System.out.println("SmartPhone sms");
+	}
+	public void click()
+	{
+		System.out.println("SmartPhone's Camera clicking...");
+	}
+	public void record()
+	{
+		System.out.println("SmartPhone's Camera recording...");
+	}
+	public void play()
+	{
+		System.out.println("SmartPhone's Music Playing...");
+	}
+}

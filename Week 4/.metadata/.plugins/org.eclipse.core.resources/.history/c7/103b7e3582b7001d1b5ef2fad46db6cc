@@ -1,0 +1,5 @@
+package interfaceTasks;
+
+public class SmartPhone extends Phone implements Camera, MusicPlayer {
+	
+}

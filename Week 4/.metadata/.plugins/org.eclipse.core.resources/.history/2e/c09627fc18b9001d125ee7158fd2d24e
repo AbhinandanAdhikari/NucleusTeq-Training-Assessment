@@ -1,0 +1,7 @@
+package inheritanceTasks;
+class SavingsAccount extends Account {
+	public void withdraw(int amt)
+	{
+		
+	}
+}

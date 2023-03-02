@@ -1,0 +1,22 @@
+package inheritanceTasks;
+class Account{
+	int accountNo;
+	String name, address;
+	int phoneNo;
+	String DOB;
+	double balance;
+	
+	public Account(int accNo, String name, String address, int phNo, String dob, double balance)
+	{
+		this.accountNo=accNo;
+		this.name=name;
+		this.address=address;
+		this.phoneNo=phNo;
+		this.DOB=dob;
+		this.balance=balance;
+	}
+	public void closeAccount()
+	{
+		System.out.println("Account closed");
+	}
+}

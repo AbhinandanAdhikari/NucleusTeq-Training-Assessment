@@ -1,0 +1,17 @@
+package interfaceTasks;
+
+public class Phone {
+	public void call()
+	{
+		System.out.println("Phone calling");
+	}
+	public void sms()
+	{
+		System.out.println("Phone sms");
+	}
+}
+
+interface Camera{
+	void click();
+	void record();
+}

@@ -3,7 +3,7 @@ package FileHandling;
 import java.io.*;
 import java.util.*;
 public class TestRead {
-	public static void implementFileWrite(String path) throws Exception
+	public static void implementFileRead(String path) throws Exception
 	{
 		FileInputStream fos = new FileInputStream(path);
 		byte b[]=new byte[fos.available()];
@@ -18,6 +18,6 @@ public class TestRead {
 		Scanner in = new Scanner(System.in);
 		System.out.println("Enter the file path"+"\n");
 		String path = in.nextLine();
-		implementFileWrite(path);
+		implementFileRead(path);
 	}
 }

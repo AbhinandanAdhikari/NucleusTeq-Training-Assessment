@@ -9,3 +9,4 @@
 - [Week 7](https://github.com/AbhinandanAdhikari/Training-Assignments/tree/Week7)
 - [Week 8](https://github.com/AbhinandanAdhikari/Training-Assignments/tree/Week8)
 - [Week 9](https://github.com/AbhinandanAdhikari/Training-Assignments/tree/Week9)
+- [Week 10](https://github.com/AbhinandanAdhikari/Training-Assignments/tree/Week10)
